@@ -1,0 +1,38 @@
+label {
+    float: left;
+    width: 10em;
+    margin-bottom: 0.5em;
+}
+label {
+    float: left;
+    width: 10em;
+    margin-bottom: 0.5em;
+}
+br {
+    clear: both;
+}
+#submit {
+    margin-left: 8em;
+}
+table, th, tr, td{
+    border: 1px solid #111;
+}
+p {
+    width: 25em;
+}
+th{
+    width: 25px;
+}
+th:nth-child(2){
+    width: 250px;
+}
+th:nth-child(3){
+    width: 50px;
+}
+.w-50{
+    width: 25px;
+}
+.w-100{
+    width: 75px;
+}
+
